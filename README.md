@@ -3,6 +3,9 @@
 Este projeto em Java calcula o IMC (Índice de Massa Corporal) de uma pessoa com base em sua altura, peso e gênero.
 O programa solicita os dados do usuário via teclado e retorna a classificação do IMC de acordo com tabelas distintas para homens e mulheres.
 
+# Integrante
+Arthur Risson
+RA:1138099
 #  Funcionalidades
 
 Solicita ao usuário:
